@@ -123,7 +123,7 @@ Point sensor("battery_solar");
 #define LORA_BANDWIDTH 125.0
 #define LORA_SPREADING_FACTOR 12
 #define LORA_CODING_RATE 5
-#define LORA_OUTPUT_POWER 21
+#define LORA_OUTPUT_POWER 14
 #define LORA_SYNC_WORD 0x1424
 #define LORA_PREAMBLE_LENGTH 14
 #endif
